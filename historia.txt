@@ -12,3 +12,6 @@ mismo desde una interfaz gráfica. Sin embargo, la relación opuesta no
 es necesariamente cierta. Así mismo, la decisión de qué cliente gráfico 
 utilizar depende totalmente de tu gusto, pero todos los usuarios tendrán 
 las herramientas de línea de comandos instaladas y disponibles.
+
+
+Cambios en el archivo
